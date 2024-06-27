@@ -22,4 +22,17 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/uttammane1/Weather-App.git
+
+2. start the repository
+   ```sh
+   npm install
+
+# Images
+
+![Macbook-Air-weather-app-drab-alpha-88 vercel app](https://github.com/uttammane1/Weather-App/assets/151371801/5ceca9eb-11ea-48e0-90da-bc3dd8040124)
+</br>
+
+![Macbook-Air-weather-app-drab-alpha-88 vercel app (1)](https://github.com/uttammane1/Weather-App/assets/151371801/2d9ee152-65b3-45b8-b3ba-1de85fc4b2af)
+
+![Galaxy-Tab-S7-weather-app-drab-alpha-88 vercel app](https://github.com/uttammane1/Weather-App/assets/151371801/e04e6301-12fe-4d6c-9249-a1ea01955976)
